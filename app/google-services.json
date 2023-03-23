@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "355210627717",
+    "firebase_url": "https://vedha-fish-farm-1563371893001.firebaseio.com",
+    "project_id": "vedha-fish-farm-1563371893001",
+    "storage_bucket": "vedha-fish-farm-1563371893001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355210627717:android:00bd00407933156cc937ec",
+        "android_client_info": {
+          "package_name": "com.vedhafishfarm.VedhaNews"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWfK4o2AMrJqyF6Kyx7TCfuoBUWf07WSo"
+        },
+        {
+          "current_key": "AIzaSyCsxSoHWypDCLT51-KsOkDV7jMqux3mX4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355210627717-38972rlj91us73flsrlmd47aisu3i0rd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-3246286025057129~1813346832"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355210627717:android:2a777d7a619d1f72c937ec",
+        "android_client_info": {
+          "package_name": "com.vedhafishfarm.livenewsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWfK4o2AMrJqyF6Kyx7TCfuoBUWf07WSo"
+        },
+        {
+          "current_key": "AIzaSyCsxSoHWypDCLT51-KsOkDV7jMqux3mX4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355210627717-38972rlj91us73flsrlmd47aisu3i0rd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355210627717:android:18b238dcc2716312c937ec",
+        "android_client_info": {
+          "package_name": "com.vedhafishfarm.vffonlineradio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWfK4o2AMrJqyF6Kyx7TCfuoBUWf07WSo"
+        },
+        {
+          "current_key": "AIzaSyCsxSoHWypDCLT51-KsOkDV7jMqux3mX4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355210627717-38972rlj91us73flsrlmd47aisu3i0rd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
